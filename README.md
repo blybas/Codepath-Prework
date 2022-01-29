@@ -4,7 +4,7 @@
 
 Submitted by: **Blythe Bassart**
 
-Time spent: **3** hours spent in total
+Time spent: **4** hours spent in total
 
 ## User Stories
 
@@ -22,13 +22,13 @@ The following **optional** features are implemented:
 
 The following **additional** features are implemented:
 
-- No additional features are implemented at this time
+- I added a settings screen, with label for default tip amount and a stepper to adjust the tip. I did not implement functionality of the default tip setter, though - ran out of time.
 
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://recordit.co/f1L5Gy5xOE.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://recordit.co/DVHye4H7kT.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with [Recordit](https://recordit.co).
 
